@@ -1,0 +1,4 @@
+enum GateType{
+    ENTRY,
+    EXIT
+};

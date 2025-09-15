@@ -5,4 +5,6 @@ class parkingFloor {
     int floorId;
     int capacity;
     std::vector<ParkingUnit> parkingUnits; // Vector of parking units on this floor
+
+    public:
 };
